@@ -16,7 +16,6 @@ function App() {
         </nav>
       </header>
 
-      {/* HERO */}
       <section className="hero">
         <h2>Desenvolvedor em formação</h2>
         <p>
@@ -24,12 +23,13 @@ function App() {
         </p>
       </section>
 
-      {/* SOBRE */}
       <section id="sobre" className="card">
         <h2>Sobre mim</h2>
         <p>
           Meu nome é Weverton. Sou estudante de Análise e Desenvolvimento de
-          Sistemas e estou focado em desenvolvimento web moderno.
+          Sistemas e estou focado Tenho conhecimentos em linguagens como
+          REACT.JS, NODE.JS, NEXT.JS, HTML e CSS, e venho me aprimorando em
+          inteligência artificial
         </p>
       </section>
 
@@ -45,7 +45,6 @@ function App() {
         </div>
       </section>
 
-      {/* CONTATO */}
       <section id="contato" className="card">
         <h2>Contato</h2>
         <p>Contato: 11-96591-0899</p>
